@@ -102,7 +102,7 @@ color: #000000;
 }
 .shop_left {
   width: 50%;
-  background: url("https://i.ibb.co/9pdjnVk/shop-women.png");
+  background: url("images/shop-women.png");
   background-size: cover;
   display: flex;
   justify-content: flex-end;
@@ -110,7 +110,7 @@ color: #000000;
 }
 .shop_right {
   width: 50%;
-  background: url("https://i.ibb.co/9ggNTXr/shop-men.png");
+  background: url("images/shop-men.png");
   background-size: cover;
   display: flex;
   justify-content: flex-end;
@@ -361,7 +361,7 @@ color: #000000;
 }
 .for-sight_left {
   width: 50%;
-  background: url("https://i.ibb.co/y6zKZRc/for-sight-left.png");
+  background: url("images/for-sight_left.png");
   background-size: cover;
   display: flex;
   justify-content: flex-end;
@@ -390,7 +390,7 @@ color: #000000;
 }
 .for-sight_right {
   width: 50%;
-  background: url("https://i.ibb.co/BGVLXkK/for-sight-right.png");
+  background: url("images/for-sight_right.png");
   background-size: cover;
   display: flex;
   justify-content: flex-end;
@@ -446,7 +446,7 @@ a {
   .our_brand_main_wrapper {
   width: 100%;
   min-height: 400px;
-  background-image: url(https://i.ibb.co/rbg7mXh/our-brands.png) ;
+  background-image: url(images/our_brands.png) ;
   background-color: red;
   background-size: contain;
    
