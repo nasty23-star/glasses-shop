@@ -1,3 +1,6 @@
+*{
+    font-family: Roboto;
+}
 .first {
   width: 100%;
   min-height: 964px;
@@ -18,7 +21,6 @@
   align-items: center;
 }
 .first_header_container_logo {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 69px;
@@ -33,7 +35,6 @@ color: #000000;
   border-right: 2px solid #000000;
 }
 .first_header_container_navbar_item {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 22px;
@@ -51,7 +52,6 @@ color: #000000;
   width: 32%;
   display: flex;
   justify-content: flex-end;
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 22px;
@@ -63,7 +63,6 @@ color: #000000;
   width: 90%;
   height: auto;
   margin: 0 auto;
-  background: red;
   
 }
 .first_main img {
@@ -78,7 +77,6 @@ color: #000000;
   z-index: 10;
 }
 .first_main_container_h {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 84px;
@@ -86,7 +84,6 @@ line-height: 130px;
 color: #000000;
 }
 .first_main_container p {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 17px;
@@ -151,7 +148,6 @@ line-height: 108px;
 color: #000000;
 }
 .new-in_header_container_link {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 17px;
@@ -241,7 +237,6 @@ color: #000000;
  
 }
 .mitchel_wrap_h3 {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 19px;
@@ -249,7 +244,6 @@ line-height: 31px;
 color: #000000;
 }
 .mitchel_wrap_h1 {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 70px;
@@ -294,7 +288,6 @@ line-height: 108px;
 color: #000000;
 }
 .bestsellers_header_container_link {
-font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 17px;
@@ -430,7 +423,6 @@ a {
   color: #000000;
   }
   .our-brand_header_container_link {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -447,7 +439,6 @@ a {
   width: 100%;
   min-height: 400px;
   background-image: url(images/our_brands.png) ;
-  background-color: red;
   background-size: contain;
    
   }
@@ -519,7 +510,6 @@ color: #000000;
    
   }
   .footer_top_container_logo {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 69px;
@@ -527,7 +517,6 @@ color: #000000;
   color: #000000;
   }
   .footer_top_container_motto {
-  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -545,7 +534,6 @@ color: #000000;
   .footer_bottom_left {
     padding-right: 10%;
     width: 69%;
-    font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -557,7 +545,6 @@ color: #000000;
     justify-content: space-between;
   }
   .footer_bottom_left_up_column {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -581,7 +568,6 @@ color: #000000;
     padding-right: 9px;
   }
   .footer_bottom_left_down_block1, .footer_bottom_left_down_block2 {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -600,7 +586,6 @@ color: #000000;
     
   }
   .footer_bottom_right_container_up {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -617,7 +602,6 @@ color: #000000;
   }
   .footer_bottom_right_container_down_contacts {
     padding-top: 42px;
-    font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   line-height: 28px;
